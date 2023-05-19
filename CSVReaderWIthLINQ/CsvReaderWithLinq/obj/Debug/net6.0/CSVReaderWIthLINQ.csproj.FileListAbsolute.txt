@@ -1,0 +1,15 @@
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\bin\Debug\net6.0\CsvReaderWithLinq.exe
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\bin\Debug\net6.0\CsvReaderWithLinq.deps.json
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\bin\Debug\net6.0\CsvReaderWithLinq.runtimeconfig.json
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\bin\Debug\net6.0\CsvReaderWithLinq.dll
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\bin\Debug\net6.0\CsvReaderWithLinq.pdb
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.csproj.AssemblyReference.cache
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.AssemblyInfoInputs.cache
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.AssemblyInfo.cs
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.dll
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\refint\CsvReaderWithLinq.dll
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.pdb
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\CsvReaderWithLinq.genruntimeconfig.cache
+C:\Users\majd.hamadeh\Desktop\Coolshop\CSVReaderWIthLINQ\CSVReaderWIthLINQ\obj\Debug\net6.0\ref\CsvReaderWithLinq.dll

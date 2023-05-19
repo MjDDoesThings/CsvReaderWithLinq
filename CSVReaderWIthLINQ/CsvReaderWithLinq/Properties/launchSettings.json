@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVReaderWIthLINQ": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\majd.hamadeh\\Desktop\\Coolshop\\file.csv 2 Alberto"
+    }
+  }
+}
